@@ -1,0 +1,5 @@
+@startuml Sequence Diagram Sample
+title Sequence Diagram
+Alice -> Bob: Request
+Bob --> Alice: Response
+@enduml
